@@ -1,3 +1,6 @@
+> [!NOTE]
+> Форк от [vernette](https://github.com/vernette) в более актуальном состоянии - https://github.com/vernette/ss-zapret
+
 > [!WARNING]
 > Образ собирался под себя, может что-то пойти не так на ваших конфигах
 
